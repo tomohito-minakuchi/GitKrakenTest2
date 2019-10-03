@@ -1,0 +1,23 @@
+# Ex. 3
+
+"""
+Function name -- summary line.
+Extended description of function.
+
+Args:
+   arg1 (int): Description of arg1
+   arg2 (str): Description of arg2
+
+Returns:
+   out (int): Description of returned value
+"""
+
+# 1-A
+using PyPlot
+# 1-A-a
+data = imread("el-capitan.png")
+# 1-A-b
+
+
+im_name = "el-capitan.png";
+r,g,b = split_im(im_name)
