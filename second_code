@@ -21,3 +21,7 @@ data = imread("el-capitan.png")
 
 im_name = "el-capitan.png";
 r,g,b = split_im(im_name)
+println("Reset with git reset --mixed")
+
+# # println("BUG BUG BUG")
+# # println("reset on 10/4 5PM")
